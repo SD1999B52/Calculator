@@ -11,3 +11,7 @@ float minus(float minuend, float subtrahend) {
 float divide(float dividend, float divider) {
 	return dividend / divider;
 }
+
+float multiply(float multiplicand, float multiplier) {
+    return multiplicand * multiplier;
+}
