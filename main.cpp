@@ -14,8 +14,8 @@ int main() {
     cout << "5) exit\n";
     
     int choice;
-    int valueA;
-    int valueB;
+    float valueA;
+    float valueB;
     
     cout << "> ";
     cin >> choice;
