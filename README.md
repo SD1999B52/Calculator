@@ -1,7 +1,7 @@
 # Calculator
-  -- main
-  -- class calculator
-     -- plus
-     -- minus
-     -- divide
-     -- multiply
+##main##
+###class calculator###
+####plus####
+####minus####
+####divide####
+####multiply####
