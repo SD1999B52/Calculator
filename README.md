@@ -1,6 +1,6 @@
 # Calculator
 ## main
-###  class calculator
+## class calculator
 - plus
 - minus
 - divide
