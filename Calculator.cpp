@@ -1,17 +1,17 @@
 #include "Calculator.h"
  
-float plus(float fTerm, float sTerm) {
+float Calculator::plus(float fTerm, float sTerm) {
     return fTerm + sTerm;
 }
 
-float minus(float minuend, float subtrahend) {
+float Calculator::minus(float minuend, float subtrahend) {
 	return minuend - subtrahend;
 }
 
-float divide(float dividend, float divider) {
+float Calculator::divide(float dividend, float divider) {
 	return dividend / divider;
 }
 
-float multiply(float multiplicand, float multiplier) {
+float Calculator::multiply(float multiplicand, float multiplier) {
     return multiplicand * multiplier;
 }
