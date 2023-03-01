@@ -1,3 +1,8 @@
+# Other
+*.layout
+*.win
+*.dev
+
 # Prerequisites
 *.d
 
