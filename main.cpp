@@ -20,7 +20,7 @@ int main() {
     cout << "> ";
     cin >> choice;
     
-    if (choice == 5) return 0;
+    if ((choice >= 5) | (choice <= 0)) return 0;
     
     cout << "------------------\n";
     cout << "Enter value A: ";
